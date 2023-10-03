@@ -1,5 +1,5 @@
 
-# COMPUTER GRAPHICS CAT 1
+# MASSIVE DATASET ACTIVITY
 ## Introduction
 This undertaking revolves around fundamental manipulation of data stored in JSON files, concentrating on activities associated with handling and organizing data within the extensive dataset while managing files.
 
